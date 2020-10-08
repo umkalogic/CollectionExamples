@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace NonGenericCollectionExample
+namespace EnumerableExample
 {
     class MainClass
     {

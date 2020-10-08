@@ -1,5 +1,5 @@
 ﻿using System;
-namespace EnumerableExample
+namespace IEnumerableExample
 {
     public class InitialData
     {

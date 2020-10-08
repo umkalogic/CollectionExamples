@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections;
-namespace EnumerableExample
+namespace IEnumerableExample
 {
     public class Inventory: IComparable
     {
