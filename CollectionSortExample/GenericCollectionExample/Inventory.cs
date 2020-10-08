@@ -1,8 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-namespace GenericCollectionExample
+using System.Collections;
+namespace NonGenericCollectionExample
 {
-    public class Inventory: IComparable<Inventory>
+    public class Inventory: IComparable
     {
         string name;
         double cost;
@@ -14,13 +14,14 @@ namespace GenericCollectionExample
             cost = c;
             onhand = h;
         }
-        public static IComparer<Inventory> SortByName
-        { get { return (IComparer<Inventory>)new InventoryComparer(); } }
+        public static IComparer SortByName
+        { get { return (IComparer)new InventoryComparer(); } }
 
-        public int CompareTo(Inventory obj)
+        public int CompareTo(object obj)
         {
+            Inventory t = obj as Inventory;
             if (obj != null)
-                return this.cost.CompareTo(obj.cost);
+                return this.cost.CompareTo(t.cost);
             else
                 throw new ArgumentException("Parameter is not an Inventory!");
         }
@@ -30,12 +31,14 @@ namespace GenericCollectionExample
             return String.Format("{0,-10}Cost: {1,6:C}  On hand: {2}", name, cost, onhand);
         }
     }
-    class InventoryComparer : IComparer<Inventory>
+    class InventoryComparer : IComparer
     {
-        int IComparer<Inventory>.Compare(Inventory o1, Inventory o2)
+        int IComparer.Compare(object o1, object o2)
         {
-            if (o1 != null && o2 != null)
-                return string.Compare(o1.Name, o2.Name, StringComparison.Ordinal);
+            Inventory t1 = o1 as Inventory;
+            Inventory t2 = o2 as Inventory;
+            if (t1 != null && t2 != null)
+                return string.Compare(t1.Name, t2.Name, StringComparison.Ordinal);
                 //Compare strings using ordinal (binary) sort rules.
             else
                 throw new ArgumentException("Parameter is not an Inventory!");
