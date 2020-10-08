@@ -7,9 +7,9 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyTitle("GenericCollectionExample")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("SvitlanaPustova")]
 [assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("SvitlanaPustova")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
