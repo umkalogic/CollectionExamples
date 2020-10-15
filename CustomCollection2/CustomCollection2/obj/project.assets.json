@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\CollectionExamples\\CustomCollectionExample\\CustomCollectionExample\\CustomCollectionExample.csproj",
-      "projectName": "CustomCollectionExample",
-      "projectPath": "C:\\projects\\CollectionExamples\\CustomCollectionExample\\CustomCollectionExample\\CustomCollectionExample.csproj",
+      "projectUniqueName": "C:\\projects\\CollectionExamples\\CustomCollection2\\CustomCollection2\\CustomCollection2.csproj",
+      "projectName": "CustomCollection2",
+      "projectPath": "C:\\projects\\CollectionExamples\\CustomCollection2\\CustomCollection2\\CustomCollection2.csproj",
       "packagesPath": "C:\\Users\\svitl\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\CollectionExamples\\CustomCollectionExample\\CustomCollectionExample\\obj\\",
+      "outputPath": "C:\\projects\\CollectionExamples\\CustomCollection2\\CustomCollection2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pRgcDsiZE2yB1aBxq9vYiDQoqYz4tMMGAARAEGGJ5505fVqU+XS5xbi8WHdqu9FXHO+khyKmMdQiDXw18+/dUg==",
+  "dgSpecHash": "pBRsyE91G4amgfgNi5XTBt42ZcV4ffOwcfpkY4Xe32wn8PATLupB9ybD9R3USad89QsqHd79U9wF1FVNu0Ndzg==",
   "success": true,
-  "projectFilePath": "C:\\projects\\OOPExamples\\CustomCollectionExample\\CustomCollectionExample\\CustomCollectionExample.csproj",
+  "projectFilePath": "C:\\projects\\CollectionExamples\\CustomCollectionExample\\CustomCollectionExample\\CustomCollectionExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

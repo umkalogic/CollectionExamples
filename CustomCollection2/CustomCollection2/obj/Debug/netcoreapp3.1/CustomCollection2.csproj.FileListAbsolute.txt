@@ -1,0 +1,13 @@
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\bin\Debug\netcoreapp3.1\CustomCollection2.exe
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\bin\Debug\netcoreapp3.1\CustomCollection2.deps.json
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\bin\Debug\netcoreapp3.1\CustomCollection2.runtimeconfig.json
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\bin\Debug\netcoreapp3.1\CustomCollection2.runtimeconfig.dev.json
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\bin\Debug\netcoreapp3.1\CustomCollection2.dll
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\bin\Debug\netcoreapp3.1\CustomCollection2.pdb
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\obj\Debug\netcoreapp3.1\CustomCollection2.csprojAssemblyReference.cache
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\obj\Debug\netcoreapp3.1\CustomCollection2.AssemblyInfoInputs.cache
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\obj\Debug\netcoreapp3.1\CustomCollection2.AssemblyInfo.cs
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\obj\Debug\netcoreapp3.1\CustomCollection2.csproj.CoreCompileInputs.cache
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\obj\Debug\netcoreapp3.1\CustomCollection2.dll
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\obj\Debug\netcoreapp3.1\CustomCollection2.pdb
+C:\projects\CollectionExamples\CustomCollection2\CustomCollection2\obj\Debug\netcoreapp3.1\CustomCollection2.genruntimeconfig.cache
