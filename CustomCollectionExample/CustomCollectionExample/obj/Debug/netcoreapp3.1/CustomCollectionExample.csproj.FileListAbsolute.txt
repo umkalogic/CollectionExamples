@@ -1,0 +1,13 @@
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\bin\Debug\netcoreapp3.1\CustomCollectionExample.exe
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\bin\Debug\netcoreapp3.1\CustomCollectionExample.deps.json
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\bin\Debug\netcoreapp3.1\CustomCollectionExample.runtimeconfig.json
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\bin\Debug\netcoreapp3.1\CustomCollectionExample.runtimeconfig.dev.json
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\bin\Debug\netcoreapp3.1\CustomCollectionExample.dll
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\bin\Debug\netcoreapp3.1\CustomCollectionExample.pdb
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\obj\Debug\netcoreapp3.1\CustomCollectionExample.csprojAssemblyReference.cache
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\obj\Debug\netcoreapp3.1\CustomCollectionExample.AssemblyInfoInputs.cache
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\obj\Debug\netcoreapp3.1\CustomCollectionExample.AssemblyInfo.cs
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\obj\Debug\netcoreapp3.1\CustomCollectionExample.csproj.CoreCompileInputs.cache
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\obj\Debug\netcoreapp3.1\CustomCollectionExample.dll
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\obj\Debug\netcoreapp3.1\CustomCollectionExample.pdb
+C:\projects\OOPExamples\CustomCollectionExample\CustomCollectionExample\obj\Debug\netcoreapp3.1\CustomCollectionExample.genruntimeconfig.cache
