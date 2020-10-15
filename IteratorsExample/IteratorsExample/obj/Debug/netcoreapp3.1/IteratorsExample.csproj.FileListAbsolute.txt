@@ -1,0 +1,13 @@
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\bin\Debug\netcoreapp3.1\IteratorsExample.exe
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\bin\Debug\netcoreapp3.1\IteratorsExample.deps.json
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\bin\Debug\netcoreapp3.1\IteratorsExample.runtimeconfig.json
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\bin\Debug\netcoreapp3.1\IteratorsExample.runtimeconfig.dev.json
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\bin\Debug\netcoreapp3.1\IteratorsExample.dll
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\bin\Debug\netcoreapp3.1\IteratorsExample.pdb
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\obj\Debug\netcoreapp3.1\IteratorsExample.csprojAssemblyReference.cache
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\obj\Debug\netcoreapp3.1\IteratorsExample.AssemblyInfoInputs.cache
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\obj\Debug\netcoreapp3.1\IteratorsExample.AssemblyInfo.cs
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\obj\Debug\netcoreapp3.1\IteratorsExample.csproj.CoreCompileInputs.cache
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\obj\Debug\netcoreapp3.1\IteratorsExample.dll
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\obj\Debug\netcoreapp3.1\IteratorsExample.pdb
+C:\projects\CollectionExamples\IteratorsExample\IteratorsExample\obj\Debug\netcoreapp3.1\IteratorsExample.genruntimeconfig.cache

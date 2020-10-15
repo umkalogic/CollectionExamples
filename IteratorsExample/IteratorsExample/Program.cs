@@ -65,7 +65,7 @@ namespace IteratorExample
             foreach (char ch in mc1)
                 Console.Write(ch + " ");
             Console.WriteLine();
-            
+
             //example2
             MyClass2 mc2 = new MyClass2();
             foreach (char ch in mc2)
@@ -86,4 +86,4 @@ namespace IteratorExample
         }
     }
 }
- 
+
